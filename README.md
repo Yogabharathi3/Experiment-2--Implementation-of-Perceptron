@@ -52,6 +52,10 @@ Indeed if the neuron output is exactly zero it cannot be assumed that the sample
 12.Print the accuracy
 
 # PROGRAM:
+```
+Developed by:Yogabharathi S
+Register no:212222230179
+```
  ```
 import numpy as np
 import pandas as pd
