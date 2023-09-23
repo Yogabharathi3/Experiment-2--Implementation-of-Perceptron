@@ -114,3 +114,10 @@ plt.show()
 # Dataset:
 ![n2](https://github.com/Yogabharathi3/Experiment-2--Implementation-of-Perceptron/assets/118899387/4eaf27de-b8e0-4113-9f40-9027fa4ed1a7)
 # Scatter Plot:
+![n1](https://github.com/Yogabharathi3/Experiment-2--Implementation-of-Perceptron/assets/118899387/e6749e34-7386-4496-8579-c0def326ea71)
+# Error Plot:
+![n3](https://github.com/Yogabharathi3/Experiment-2--Implementation-of-Perceptron/assets/118899387/420e43be-fbd6-4928-a2b6-5706944f0602)
+# Accuracy:
+![n4](https://github.com/Yogabharathi3/Experiment-2--Implementation-of-Perceptron/assets/118899387/fc6d8ce9-7e6a-4673-a108-425c022ead99)
+# RESULT:
+Thus a perceptron for classification is implemented using python.
