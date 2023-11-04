@@ -3,11 +3,11 @@
 
 To implement a perceptron for classification using Python
 
-# EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
-# RELATED THEORETICAL CONCEPT:
+## RELATED THEORETICAL CONCEPT:
 A Perceptron is a basic learning algorithm invented in 1959 by Frank Rosenblatt. It is meant to mimic the working logic of a biological neuron. The human brain is basically a collection of many interconnected neurons. Each one receives a set of inputs, applies some sort of computation on them and propagates the result to other neurons.
 A Perceptron is an algorithm used for supervised learning of binary classifiers.Given a sample, the neuron classifies it by assigning a weight to its features. To accomplish this a Perceptron undergoes two phases: training and testing. During training phase weights are initialized to an arbitrary value. Perceptron is then asked to evaluate a sample and compare its decision with the actual class of the sample.If the algorithm chose the wrong class weights are adjusted to better match that particular sample. This process is repeated over and over to finely optimize the biases. After that, the algorithm is ready to be tested against a new set of completely unknown samples to evaluate if the trained model is general enough to cope with real-world samples.
 The important Key points to be focused to implement a perceptron:
@@ -23,7 +23,7 @@ A threshold function, usually Heaviside or sign functions, maps the scalar value
 Indeed if the neuron output is exactly zero it cannot be assumed that the sample belongs to the first sample since it lies on the boundary between the two classes. Nonetheless for the sake of simplicity,ignore this situation.
 
 
-# ALGORITHM:
+## ALGORITHM:
 1.Importing the libraries
 
 2.Importing the dataset
@@ -51,7 +51,7 @@ Indeed if the neuron output is exactly zero it cannot be assumed that the sample
 
 12.Print the accuracy
 
-# PROGRAM:
+## PROGRAM:
 ```
 Developed by:Yogabharathi S
 Register no:212222230179
@@ -123,14 +123,14 @@ plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
 ```
-# OUTPUT:
-# Dataset:
+## OUTPUT:
+## Dataset:
 ![n2](https://github.com/Yogabharathi3/Experiment-2--Implementation-of-Perceptron/assets/118899387/4eaf27de-b8e0-4113-9f40-9027fa4ed1a7)
-# Scatter Plot:
+## Scatter Plot:
 ![n1](https://github.com/Yogabharathi3/Experiment-2--Implementation-of-Perceptron/assets/118899387/e6749e34-7386-4496-8579-c0def326ea71)
-# Error Plot:
+## Error Plot:
 ![n3](https://github.com/Yogabharathi3/Experiment-2--Implementation-of-Perceptron/assets/118899387/420e43be-fbd6-4928-a2b6-5706944f0602)
-# Accuracy:
+## Accuracy:
 ![n4](https://github.com/Yogabharathi3/Experiment-2--Implementation-of-Perceptron/assets/118899387/fc6d8ce9-7e6a-4673-a108-425c022ead99)
-# RESULT:
+## RESULT:
 Thus a perceptron for classification is implemented using python.
